@@ -1,4 +1,3 @@
-#%% md
 
 ## Portfolio Exercise: Starbucks
 <br>
